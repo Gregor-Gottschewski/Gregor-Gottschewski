@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**Gregor-Gottschewski/Gregor-Gottschewski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```json
+{
+    "name": "Gregor Gottschewski",
+    "programming_languages": [
+        "Java", "Python"
+    ],
+    "interests": [
+        "Cryptography", "Client-server-systems", "JavaFX", "Linux"
+    ],
+    "currently_learning": [
+        "Asymmetrical cryptography", "REST"
+    ],
+    "newest_project": "MitmFox (server and client)",
+    "working_on": "a file server using REST"
+}
+```
