@@ -1,18 +1,22 @@
 ### Hi there 👋
 
+Nice to see you on my GitHub account.
+Here are some information about me and my projects:
+
 ```json
 {
     "name": "Gregor Gottschewski",
     "programming_languages": [
-        "Java", "Python"
+        "Java", "Python", "AppleScript"
     ],
     "interests": [
-        "Cryptography", "Client-server-systems", "JavaFX", "Linux"
+        "Cryptography", "Client-server-systems", "JavaFX", "Linux", "Jakarta EE"
     ],
     "currently_learning": [
-        "Asymmetrical cryptography", "REST", "SwiftUI"
+        "JAX-RS", "PrimeFaces"
     ],
     "newest_project": "MitmFox (server and client)",
-    "working_on": "a file server using REST"
+    "working_on": "A personal cloud server using JAX-RS and PrimeFaces",
+    "mail": "85785843+Gregor-Gottschewski [AT] users [DOT] noreply [DOT] github [DOT] com"
 }
 ```
