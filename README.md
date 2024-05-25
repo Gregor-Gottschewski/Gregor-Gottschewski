@@ -17,6 +17,6 @@ Here are some information about me and my projects:
     ],
     "newest_project": "MitmFox (server and client)",
     "working_on": "A personal cloud server using JAX-RS and PrimeFaces",
-    "mail": "85785843+Gregor-Gottschewski [AT] users [DOT] noreply [DOT] github [DOT] com"
+    "mail": "gregorgott.software [AT] yahoo.com"
 }
 ```
