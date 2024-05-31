@@ -1,6 +1,6 @@
 ![](resources/Banner.png)
 
-### Hey! Yep, that's me. Juuuust me.
+### 👋 Hey! Yep, that's me. Juuuust me.
 
 This small JSON snippet contains the most important information about me:
 
